@@ -34,7 +34,7 @@ fornecedores, tornando mais fácil o contato e a gestão das compras.
 Studio Code, etc.).
 ### Configuração
 Clone o repositório:
-git clone [url-do-repositorio] 
+git clone https://github.com/gvnff/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa/blob/main/README.md 
 ### Uso
 Este sistema fornece uma interface de linha de comando para gerenciar produtos, 
 categorias, movimentações de estoque e fornecedores. A seguir, você encontrará 
