@@ -1,6 +1,6 @@
 
 ## Sistema de Gestâo de Estoque para Pequena Empresa
-![banner](https://github.com/gvnff/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa/blob/main/banner.jpeg)
+![banner](https://github.com/gvnff/ESGSoftware/blob/main/capaProjeto(2).jpeg)
 Este sistema foi criado para facilitar a gestâo de estoque em pequenas empresas. Ele  centraliza informações sobre produtos, categorias, movimentações de estoque e  fornecedores, permitindo um controle de estoque eficiente e a manutenção de um  registro detalhado das operações.
 
 ### Tabelas Implementadas
